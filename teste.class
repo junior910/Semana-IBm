@@ -1,6 +1,7 @@
 Class teste():
 	int a;
-
+	int c;
+	struct (bla,bla);
 	metodo1():
 		jdkljfd
 		lkjalskdf
